@@ -1,0 +1,10 @@
+{
+  "name": "stratus-reviews",
+  "description": "Code quality and security review tools for GTP-Services teams",
+  "version": "1.0.0",
+  "author": {
+    "name": "GTP-Services Platform Team"
+  },
+  "repository": "https://github.com/GTP-Services/stratus-reviews",
+  "keywords": ["code-review", "security", "quality"]
+}
