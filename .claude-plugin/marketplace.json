@@ -1,0 +1,15 @@
+{
+  "name": "stratus-reviews",
+  "description": "Code quality and security review tools for GTP-Services teams",
+  "owner": {
+    "name": "GTP-Services Platform Team"
+  },
+  "plugins": [
+    {
+      "name": "stratus-reviews",
+      "description": "Code quality and security review tools for GTP-Services teams",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
